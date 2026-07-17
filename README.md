@@ -89,7 +89,7 @@ Data Science & Machine Learning
 
 ## Certifications
 
-Artificial Intelligence Fundamentals | IBMSkills Build
+- Artificial Intelligence Fundamentals | IBMSkills Build
 - Machine Learning with Python | freeCodeCamp
 - Machine Learning Foundations | AWS Educate
 
