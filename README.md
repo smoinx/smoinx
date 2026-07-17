@@ -77,11 +77,21 @@ Data Science & Machine Learning
 </div>
 
 ---
+---
+
+## 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
 
 ## Certifications
 
+Artificial Intelligence Fundamentals | IBMSkills Build
 - Machine Learning with Python | freeCodeCamp
-- AWS Educate Machine Learning Foundations | In Progress
+- Machine Learning Foundations | AWS Educate
 
 ---
 
