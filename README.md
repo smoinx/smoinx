@@ -19,8 +19,8 @@ const syedMoin = {
   role: "BS Computer Science Student",
   focus: ["Data Science", "Machine Learning"],
   careerDirection: "AI Engineering",
-  languages: ["Python"],
-  dataScience: ["NumPy", "Pandas", "Matplotlib"],
+  languages: ["Python","C++"],
+  dataScience: ["NumPy", "Pandas", "Matplotlib","Sea Born"],
   machineLearning: ["Scikit-learn", "TensorFlow"],
   database: ["MySQL", "SQL"],
   status: "Building and learning through practical projects"
