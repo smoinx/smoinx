@@ -69,13 +69,6 @@ I am currently organizing and publishing my projects on GitHub. Featured project
 
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=smoinx&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
 
 ## Contribution Activity
 
