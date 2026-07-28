@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00D9FF,50:2563EB,100:7C3AED&text=SYED%20MOIN%20RAZA%20BUKHARI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20•%20Data%20Science%20•%20Machine%20Learning&descAlignY=58"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Learning+Data+Science+%26+Machine+Learning;Building+Practical+Projects;Exploring+AI+Engineering;Turning+Concepts+Into+Code" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Data+Science+Enthusiast;Machine+Learning+Developer;Building+Projects+Every+Day;Always+Learning+🚀"/>
 
 <br>
