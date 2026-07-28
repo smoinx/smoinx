@@ -266,12 +266,12 @@ class SyedMoin:
 
 <!-- Replace these links with your own profiles -->
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/syed-moin-shah-bukhari-a26a20406">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR-EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/smoinx69@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
