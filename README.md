@@ -133,11 +133,15 @@ A Machine Learning project built for the **freeCodeCamp Machine Learning with Py
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smoinx&show_icons=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoinx&layout=compact" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=smoinx" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smoinx&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoinx&layout=compact&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=smoinx&theme=transparent&hide_border=true"/>
+
 </div>
 
 ---
