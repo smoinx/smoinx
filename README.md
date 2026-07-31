@@ -1,11 +1,6 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/smoinx/smoinx/output/github-contribution-grid-snake.svg">
-
-    
-  </picture>
+  <img src="https://raw.githubusercontent.com/smoinx/smoinx/main/github-banner.png" alt="Banner" width="100%">
+</p>
 
 
 
