@@ -1,17 +1,18 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/smoinx/smoinx/main/dark.svg">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/smoinx/smoinx/output/github-contribution-grid-snake.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/smoinx/smoinx/main/light.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/smoinx/smoinx/output/github-contribution-grid-snake-dark.svg">
 
-  <img
-    alt="Syed Moin Raza Bukhari"
-    src="https://raw.githubusercontent.com/smoinx/smoinx/main/light.svg"
-    width="100%">
-</picture>
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/smoinx/smoinx/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 <h1 align="center">Hi 👋, I'm Syed Moin Raza Bukhari</h1>
 
