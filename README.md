@@ -102,20 +102,17 @@ NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=smoinx&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smoinx&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smoinx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=smoinx&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoinx&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoinx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smoinx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
 
 # 📊 Contribution Graph
 
