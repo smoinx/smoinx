@@ -114,6 +114,12 @@ NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning
   <img src="https://github-profile-trophy.vercel.app/?username=smoinx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
+# 🐍 Contribution Snake
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/smoinx/smoinx/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
