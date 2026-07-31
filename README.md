@@ -119,20 +119,24 @@ NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning
 </div>
 
 
-# 🐍 Contribution Snake
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/smoinx/smoinx/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</p>
-  </picture>
-</p>
+<div align="center">
 
-## 📈 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+</picture>
 
-<p align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+</div>
 
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/projects/projects.svg" alt="Projects" />
+</div>
 # ⭐ Featured Projects
 
 ## 🚀 SIFT
