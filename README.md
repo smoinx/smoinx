@@ -102,7 +102,7 @@ NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smoinx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app?username=smoinx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=smoinx&theme=tokyonight&hide_border=true" />
 </p>
 
