@@ -79,6 +79,121 @@
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
+ 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,mysql,git,github,vscode,pycharm"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</div>
+
+# 📌 Featured Projects
+
+## 🎮 Online Tekken Tournament Management System
+
+A complete tournament management platform designed for organizing competitive Tekken tournaments.
+
+### Features
+
+- 👥 Player Registration
+- 🏆 Tournament Management
+- 🎯 Match Scheduling
+- 📊 Rankings & Results
+- 🔐 Role-Based Administration
+- 🗄️ MySQL Database Design
+
+*Tech Stack*
+
+Python • MySQL • SQL
+
+---
+
+## 🤖 Rock Paper Scissors AI
+
+A Machine Learning project built for the *freeCodeCamp Machine Learning with Python* certification.
+
+### Features
+
+- 🧠 Learns opponent patterns
+- 🎯 Adaptive move prediction
+- ⚡ Python implementation
+- ✅ Successfully passed all official freeCodeCamp evaluation tests
+
+*Tech Stack*
+
+Python • Machine Learning
+
+---
+
+##  Coming Soon
+
+- Data Analysis Portfolio
+- Machine Learning Portfolio
+- AI Projects Collection
+
+  # 📜 Certifications
+
+<div align="center">
+
+| Certificate | Provider |
+|:------------|:--------:|
+| 🤖 Artificial Intelligence Fundamentals | IBM SkillsBuild |
+| 📊 Data Analysis with Python | IBM Cognitive Class |
+| 🧠 Machine Learning with Python | freeCodeCamp |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/f71c832b-8315-4612-8e8d-91d9725d73c2">
+<img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<a href="https://courses.cognitiveclass.ai/certificates/ada489da5df44dc4849acf34b561db43">
+<img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<a href="https://freecodecamp.org/certification/fcc-4e91ad3c-1ad5-4196-9343-c153e19cafd1/machine-learning-with-python-v7">
+<img src="https://img.shields.io/badge/freeCodeCamp-Machine%20Learning%20with%20Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🌟 Fun Fact
+
+python
+class SyedMoin:
+
+    def __init__(self):
+        self.code = "Python"
+        self.goal = "AI Engineer"
+        self.interests = [
+            "Machine Learning",
+            "Data Science",
+            "Artificial Intelligence"
+        ]
+
+    def motto(self):
+        return "Build • Learn • Improve • Repeat"
+
+
+---
 
 <!-- =================================== -->
 
