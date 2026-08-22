@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/smoinx/smoinx/main/animatedbannerr.svg" alt="Banner" width="100%">
 </p>
 
-
 <div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Learning+Data+Science+%26+Machine+Learning;Building+Practical+Projects;Exploring+AI+Engineering;Turning+Concepts+Into+Code" />
